@@ -64,6 +64,7 @@ git clone https://github.com/vijay-atla/free-blood-source-online.git
 
 - Navigate to: http://localhost/BloodSource/index.php
 
+--- 
 
 ## 📸 Screenshots
 
@@ -96,10 +97,6 @@ git clone https://github.com/vijay-atla/free-blood-source-online.git
 ## 👤 Author
 
 - Vijay Atla
-
-  Graduate Student, MSIS
-
-  Central Michigan University
 
   Year Developed: 2020
 
