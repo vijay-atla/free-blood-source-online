@@ -1,0 +1,59 @@
+img{
+	width:7%;
+	height:12%;
+}
+
+body{
+	margin:0;
+	padding:0;
+	background:gray;
+	
+}
+
+ul {
+  list-style-type: none;
+  margin: 5px;
+  padding: 10px;
+  overflow: hidden;
+  background-color: #333;
+  background-attachment:sticky;
+}
+.h li{
+	width:10px;
+	position:center;
+}
+li{
+	float:right;
+}
+
+.logo img{
+	position:absolute;
+	margin-top:-1px;
+	margin-left:150px;
+}
+.heading{
+	margin-top:0px;
+	margin-left:300px;
+	position:absolute;
+	font-size:50px;
+	font-family:cursive;
+	color:red;
+}
+
+
+nav a{
+	width:100px;
+	display:block;
+	padding:20px 15px;
+	text-decoration:none;
+	font-family:arial;
+	color:#f2f2f2;
+	text-align:center;
+	
+}
+nav a:hover{
+	background-color:blue;
+	transition:0s;
+	text-transform:uppercase;
+	
+}

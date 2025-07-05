@@ -1,0 +1,139 @@
+*{
+	margin:0;
+	padding: 0;
+	
+}
+body{
+	background: url("images/img2.jpg");
+	background-size:100%;
+	background-position:center center;
+	background-repeat:no-repeat;
+	background-position: sticky;
+	background-attachment: fixed;
+}
+div.main{
+	width:700px;
+	margin:25px auto 0px auto;
+}
+h2{
+	text-align:center;
+	padding:20px;
+	font-family:cursive;
+}
+div.register{
+	margin-top:-75px;
+	background-color:rgba(0,0,0,0.1);
+	width:auto;
+	font-size:18px;
+	border-radius:10px;
+	border:1px soid rgba(255,255,255,0.3);
+	box-shadow:2px 2px 15px rgba(0,0,0,0.3);
+	color:#fff;
+	
+}
+form{
+	margin:100;
+	width:500;
+	margin-left:165px;
+}
+table{
+	border-collapse:separate;
+	border-spacing:15px 15px;
+}
+label{
+	font-family:"arial",serif;
+	font-size:15px;
+	
+}
+input{
+	border:1px solid #ddd;
+	border-radius:30px;
+	height:25px;
+	outline:0;
+	padding:7px;
+	background-color:pink;
+	
+}
+
+select{
+	width:185px;
+	height:25px;
+	border:1px solid #ddd;
+	border-radius:30px;
+	background-color:pink;
+}
+textarea{
+	width:185px;
+	border-radius:30px;
+	border:1px solid #ddd;
+	background-color:pink;
+}
+input#dsubmit{
+	margin-top:15px;
+	width:200px;
+	padding:7px;
+	height:30px;
+	font-size:16px;
+	font-family:sans-serif;
+	font-weight:600;
+	border:none;
+	border-radius:3px;
+	background-color:lightgreen;
+	cursor:pointer;
+	
+	
+}
+
+/*Navigation Bar*/
+img{
+	width:7%;
+	height:12%;
+}
+
+ul {
+
+  list-style-type: none;
+  margin:2px;
+  padding: 10px;
+  overflow: hidden;
+  background-color: #333;
+}
+.h li{
+
+	width:10px;
+	position:center;
+}
+li{
+	float:right;
+}
+
+.logo img{
+	position:absolute;
+	margin-top:-1px;
+	margin-left:150px;
+}
+.heading{
+	margin-top:0px;
+	margin-left:300px;
+	position:absolute;
+	font-size:50px;
+	font-family:cursive;
+	color:red;
+}
+
+
+nav a{
+	width:100px;
+	display:block;
+	padding:20px 15px;
+	text-decoration:none;
+	font-family:arial;
+	color:#f2f2f2;
+	text-align:center;
+}
+nav a:hover{
+	background-color:blue;
+	transition:0s;
+	text-transform:uppercase;
+	
+}
